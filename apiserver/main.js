@@ -63,6 +63,7 @@ products = products.map(product => {
             const clusterSentiment = reviews.reduce((acc, review) => acc + parseFloat(review.sentiment), 0) / reviews.length;
             return {
               clusterID,
+              clusterInterpret: reviews[0]["Cluster_interpretation"],
               clusterSentiment,
               reviews
             }
