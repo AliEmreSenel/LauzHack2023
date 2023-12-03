@@ -28,8 +28,15 @@ Working demo (back-end and front-end implementation)
 
 ## WHAT WE LEARNED
 
+
 ## HOW WE BUILT IT
-We used this thing to do that thing. Moreover, we used this other thing too
+We paired id to reviews,
+used text2vec, 
+used PCA to “standardize”, 
+clustered the vectors through k means (silhouette method to choose optimal k).
+Split the vectors in 5 macro-categories. We identified the sub-categories of clusters (lemmatization). 
+We also differentiated the data based on a sentiment analysis (NLTK with vader lexicon).
+
 
 ## WHAT’S NEXT FOR "AMAZON REVIEW TOOLS"
 -	Simultaneous multiple product checking
