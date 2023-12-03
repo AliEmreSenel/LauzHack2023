@@ -25,9 +25,7 @@ Moreover, each slice of the pie chart is colour based on the percentage of posit
 
 ## ACCOMPLISHMENTS THAT WE’RE PROUD OF
 Working demo (back-end and front-end implementation)
-
-## WHAT WE LEARNED
-
+Learned a lot from first hackathon
 
 ## HOW WE BUILT IT
 We paired id to reviews,
