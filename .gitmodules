@@ -1,0 +1,3 @@
+[submodule "aws-reviews"]
+	path = aws-reviews
+	url = https://github.com/AliEmreSenel/aws-reviews-lauzhack-2023
