@@ -44,3 +44,7 @@ We also differentiated the data based on a sentiment analysis (NLTK with vader l
 ## CODE STRUCTURE
 ```apiserver```: Serves the csv data to the frontend app
 ```aws-review```: frontend app written in nextjs
+
+## Screenshot
+![screenshot](https://github.com/AliEmreSenel/LauzHack2023/blob/master/Screenshot_20231203_115457.png?raw=true)
+##
